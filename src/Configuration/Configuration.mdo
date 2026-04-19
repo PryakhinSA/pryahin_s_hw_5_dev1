@@ -340,6 +340,7 @@
   <constants>Constant.ТолькоЗащищеннаяАутентификацияSMTP</constants>
   <constants>Constant.УчетПоСкладам</constants>
   <constants>Constant.Dev1_const</constants>
+  <constants>Constant.Dev2_Const</constants>
   <commonForms>CommonForm.ОбщиеНастройки</commonForms>
   <commonForms>CommonForm.НастройкиМобильногоУстройства</commonForms>
   <commonForms>CommonForm.НастройкаПочты</commonForms>
